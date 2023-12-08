@@ -1,9 +1,3 @@
-/*
- * V2RAY Worker v2.2
- * Copyright 2023 Vahid Farid (https://twitter.com/vahidfarid)
- * Licensed under GPLv3 (https://github.com/vfarid/v2ray-worker/blob/main/Licence.md)
- */
-
 import { VlessOverWSHandler } from "./vless"
 import { GetPanel, PostPanel } from "./panel"
 import { GetLogin, PostLogin } from "./auth"
