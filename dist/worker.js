@@ -1,9 +1,3 @@
-/*
- * V2RAY Worker v2.2
- * Copyright 2023 Vahid Farid (https://twitter.com/vahidfarid)
- * Licensed under GPLv3 (https://github.com/vfarid/v2ray-worker/blob/main/Licence.md)
- */
-
 var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
@@ -4426,11 +4420,7 @@ async function GetPanel(request, env) {
     <body dir="ltr">
       <div class="container border p-0">
         <div class="p-1 bg-primary text-white">
-          <div class="text-nowrap fs-4 fw-bold text-center">V2RAY Worker - Control Panel</div>
-          <div class="text-nowrap fs-6 text-center">
-            Version 2.2 by
-            <a href="https://twitter.com/vahidfarid" target="_blank" class="text-white">Vahid Farid</a>
-          </div>
+          <div class="text-nowrap fs-4 fw-bold text-center">Nosotros dos rayos</div>
         </div>
         ${htmlMessage}
         <div class="px-4 py-2 bg-light">
@@ -4565,11 +4555,7 @@ async function GetPanel(request, env) {
       <body dir="ltr">
         <div class="container border p-0">
           <div class="p-1 bg-primary text-white">
-            <div class="text-nowrap fs-4 fw-bold text-center">V2RAY Worker - Control Panel</div>
-            <div class="text-nowrap fs-6 text-center">
-              Version 2.2 by
-              <a href="https://twitter.com/vahidfarid" target="_blank" class="text-white">Vahid Farid</a>
-            </div>
+            <div class="text-nowrap fs-4 fw-bold text-center">Nosotros dos rayos</div>
           </div>
           <div class="px-5 py-2 bg-light">
             <label for="sub-link" class="form-label fw-bold">
@@ -4677,11 +4663,7 @@ async function GetLogin(request, env) {
     <body dir="ltr">
       <div class="container border p-0">
         <div class="p-3 bg-primary text-white">
-          <div class="text-nowrap fs-4 fw-bold text-center">V2RAY Worker - Control Panel</div>
-          <div class="text-nowrap fs-6 text-center">
-            Version 2.2 by
-            <a href="https://twitter.com/vahidfarid" target="_blank" class="text-white">Vahid Farid</a>
-          </div>
+          <div class="text-nowrap fs-4 fw-bold text-center">Nosotros dos rayos</div>
         </div>
         ${htmlMessage}
         <form class="mt-5 p-3 row g-3" method="post">
